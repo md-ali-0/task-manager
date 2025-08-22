@@ -1,3 +1,4 @@
+"use client"
 import { ResetPasswordForm } from "@/components/auth/reset-password-form";
 import Link from "next/link";
 import { notFound, useSearchParams } from "next/navigation";

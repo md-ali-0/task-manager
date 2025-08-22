@@ -36,7 +36,7 @@ Task Manager is a full-stack web application that allows users to **manage tasks
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/md-ali-0/task-manager.git
+git clone https://github.com/md-ali-0/task-manager-server.git
 cd task-manager
 ```
 
@@ -118,7 +118,7 @@ The app will be available at **`http://localhost:3000`**.
 
 ## 🚀 Deployment
 
--   **Frontend Deployment**: [Frontend Live URL](https://taskify-two-omega.vercel.app)
+-   **Frontend Deployment**: [Frontend Live URL](https://task-manager-374y.vercel.app)
 -   **Backend Deployment**: [Backend Live URL](https://taskify-server-nine.vercel.app)
 
 ## 📜 License
